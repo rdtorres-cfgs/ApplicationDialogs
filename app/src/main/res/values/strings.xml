@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ApplicationDialogs</string>
+    <string name="dialog_fire_missiles">ракета</string>
+    <string name="fire">стрелять ракетой</string>
+    <string name="cancel">отменить ракету</string>
+    <string name="NegativeButtonString">Ракеты не стреляют</string>
+    <string name="PositiveButtonString">Ракеты запускаются</string>
+</resources>
